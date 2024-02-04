@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "556FA48D-9B60-437B-B3E5-7F975AC37F72"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21088E28-5664-4FE8-8E40-04F692EDE593"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler-iOS13/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "795EEC73-0F0C-4A5E-905D-B07D04CA4F71"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quizzler-iOS13/Controller/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "updateUI()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "795EEC73-0F0C-4A5E-905D-B07D04CA4F71 - 8176a04198437eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.updateUI() -&gt; ()"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashwingupta/Developer/Swift%20Development/Section-9/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1188">
+               </Location>
+               <Location
+                  uuid = "795EEC73-0F0C-4A5E-905D-B07D04CA4F71 - 8176a04198437eda"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quizzler_iOS13.ViewController.updateUI() -&gt; ()"
+                  moduleName = "Quizzler-iOS13"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ashwingupta/Developer/Swift%20Development/Section-9/Quizzler-iOS13/Quizzler-iOS13/Controller/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "1020">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
